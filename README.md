@@ -27,4 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Amansolanki19/Leets/tree/master/0058-length-of-last-word) |
+| [0680-valid-palindrome-ii](https://github.com/Amansolanki19/Leets/tree/master/0680-valid-palindrome-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Amansolanki19/Leets/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Amansolanki19/Leets/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
