@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Amansolanki19/Leets/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Amansolanki19/Leets/tree/master/0503-next-greater-element-ii) |
+| [0867-transpose-matrix](https://github.com/Amansolanki19/Leets/tree/master/0867-transpose-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amansolanki19/Leets/tree/master/0002-add-two-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Amansolanki19/Leets/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Amansolanki19/Leets/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
