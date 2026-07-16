@@ -8,6 +8,8 @@ class Solution {
                 mat[j][i] = matrix[i][j];
             }
         }
+
+        System.gc();
         return mat;
     }
 }
