@@ -10,6 +10,7 @@ class Solution {
                 point++;
             }
         }
+        System.gc();
         return stack.isEmpty();
     }
 }
