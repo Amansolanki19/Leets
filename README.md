@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Amansolanki19/Leets/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/Amansolanki19/Leets/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/Amansolanki19/Leets/tree/master/0503-next-greater-element-ii) |
 | [0867-transpose-matrix](https://github.com/Amansolanki19/Leets/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/Amansolanki19/Leets/tree/master/0946-validate-stack-sequences) |
@@ -74,4 +75,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Amansolanki19/Leets/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Amansolanki19/Leets/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Amansolanki19/Leets/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Amansolanki19/Leets/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Amansolanki19/Leets/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
