@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amansolanki19/Leets/tree/master/0005-longest-palindromic-substring) |
+| [0061-rotate-list](https://github.com/Amansolanki19/Leets/tree/master/0061-rotate-list) |
 | [0443-string-compression](https://github.com/Amansolanki19/Leets/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Amansolanki19/Leets/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amansolanki19/Leets/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/Amansolanki19/Leets/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
