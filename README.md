@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Amansolanki19/Leets/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/Amansolanki19/Leets/tree/master/0058-length-of-last-word) |
 | [0443-string-compression](https://github.com/Amansolanki19/Leets/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Amansolanki19/Leets/tree/master/0680-valid-palindrome-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Amansolanki19/Leets/tree/master/0005-longest-palindromic-substring) |
 | [0443-string-compression](https://github.com/Amansolanki19/Leets/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Amansolanki19/Leets/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Amansolanki19/Leets/tree/master/0239-sliding-window-maximum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Amansolanki19/Leets/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
