@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Amansolanki19/Leets/tree/master/0084-largest-rectangle-in-histogram) |
+| [0238-product-of-array-except-self](https://github.com/Amansolanki19/Leets/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Amansolanki19/Leets/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/Amansolanki19/Leets/tree/master/0503-next-greater-element-ii) |
 | [0867-transpose-matrix](https://github.com/Amansolanki19/Leets/tree/master/0867-transpose-matrix) |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amansolanki19/Leets/tree/master/0005-longest-palindromic-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Amansolanki19/Leets/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
