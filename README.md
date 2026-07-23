@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amansolanki19/Leets/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/Amansolanki19/Leets/tree/master/0058-length-of-last-word) |
+| [0171-excel-sheet-column-number](https://github.com/Amansolanki19/Leets/tree/master/0171-excel-sheet-column-number) |
 | [0443-string-compression](https://github.com/Amansolanki19/Leets/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Amansolanki19/Leets/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Amansolanki19/Leets/tree/master/0796-rotate-string) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amansolanki19/Leets/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Amansolanki19/Leets/tree/master/0007-reverse-integer) |
+| [0171-excel-sheet-column-number](https://github.com/Amansolanki19/Leets/tree/master/0171-excel-sheet-column-number) |
 ## Recursion
 |  |
 | ------- |
