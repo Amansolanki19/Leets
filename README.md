@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Amansolanki19/Leets/tree/master/0819-most-common-word) |
 | [0867-transpose-matrix](https://github.com/Amansolanki19/Leets/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/Amansolanki19/Leets/tree/master/0946-validate-stack-sequences) |
+| [2043-simple-bank-system](https://github.com/Amansolanki19/Leets/tree/master/2043-simple-bank-system) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Amansolanki19/Leets/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Stack
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Amansolanki19/Leets/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Amansolanki19/Leets/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Amansolanki19/Leets/tree/master/0232-implement-queue-using-stacks) |
+| [2043-simple-bank-system](https://github.com/Amansolanki19/Leets/tree/master/2043-simple-bank-system) |
 ## String
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/Amansolanki19/Leets/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/Amansolanki19/Leets/tree/master/0946-validate-stack-sequences) |
+| [2043-simple-bank-system](https://github.com/Amansolanki19/Leets/tree/master/2043-simple-bank-system) |
 ## Sorting
 |  |
 | ------- |
@@ -129,4 +132,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/Amansolanki19/Leets/tree/master/0819-most-common-word) |
+| [2043-simple-bank-system](https://github.com/Amansolanki19/Leets/tree/master/2043-simple-bank-system) |
 <!---LeetCode Topics End-->
