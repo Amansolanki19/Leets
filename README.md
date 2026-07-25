@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Amansolanki19/Leets/tree/master/0014-longest-common-prefix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Amansolanki19/Leets/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/Amansolanki19/Leets/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Amansolanki19/Leets/tree/master/0238-product-of-array-except-self) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amansolanki19/Leets/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Amansolanki19/Leets/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Amansolanki19/Leets/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/Amansolanki19/Leets/tree/master/0171-excel-sheet-column-number) |
 | [0443-string-compression](https://github.com/Amansolanki19/Leets/tree/master/0443-string-compression) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0819-most-common-word](https://github.com/Amansolanki19/Leets/tree/master/0819-most-common-word) |
 | [2043-simple-bank-system](https://github.com/Amansolanki19/Leets/tree/master/2043-simple-bank-system) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Amansolanki19/Leets/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
