@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Amansolanki19/Leets/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/Amansolanki19/Leets/tree/master/0819-most-common-word) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Amansolanki19/Leets/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1768-merge-strings-alternately](https://github.com/Amansolanki19/Leets/tree/master/1768-merge-strings-alternately) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Amansolanki19/Leets/tree/master/0061-rotate-list) |
 | [0443-string-compression](https://github.com/Amansolanki19/Leets/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Amansolanki19/Leets/tree/master/0680-valid-palindrome-ii) |
+| [1768-merge-strings-alternately](https://github.com/Amansolanki19/Leets/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
