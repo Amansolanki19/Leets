@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Amansolanki19/Leets/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Amansolanki19/Leets/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/Amansolanki19/Leets/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Amansolanki19/Leets/tree/master/0628-maximum-product-of-three-numbers) |
 | [0819-most-common-word](https://github.com/Amansolanki19/Leets/tree/master/0819-most-common-word) |
 | [0867-transpose-matrix](https://github.com/Amansolanki19/Leets/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/Amansolanki19/Leets/tree/master/0946-validate-stack-sequences) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Amansolanki19/Leets/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Amansolanki19/Leets/tree/master/0007-reverse-integer) |
 | [0171-excel-sheet-column-number](https://github.com/Amansolanki19/Leets/tree/master/0171-excel-sheet-column-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Amansolanki19/Leets/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Amansolanki19/Leets/tree/master/0628-maximum-product-of-three-numbers) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Amansolanki19/Leets/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Counting
 |  |
