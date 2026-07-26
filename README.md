@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Amansolanki19/Leets/tree/master/0014-longest-common-prefix) |
+| [0059-spiral-matrix-ii](https://github.com/Amansolanki19/Leets/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Amansolanki19/Leets/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/Amansolanki19/Leets/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Amansolanki19/Leets/tree/master/0238-product-of-array-except-self) |
@@ -91,10 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Amansolanki19/Leets/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Amansolanki19/Leets/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Amansolanki19/Leets/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Amansolanki19/Leets/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/Amansolanki19/Leets/tree/master/0946-validate-stack-sequences) |
 | [2043-simple-bank-system](https://github.com/Amansolanki19/Leets/tree/master/2043-simple-bank-system) |
