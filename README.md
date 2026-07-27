@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Amansolanki19/Leets/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Amansolanki19/Leets/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/Amansolanki19/Leets/tree/master/0503-next-greater-element-ii) |
+| [0561-array-partition](https://github.com/Amansolanki19/Leets/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amansolanki19/Leets/tree/master/0628-maximum-product-of-three-numbers) |
 | [0819-most-common-word](https://github.com/Amansolanki19/Leets/tree/master/0819-most-common-word) |
 | [0867-transpose-matrix](https://github.com/Amansolanki19/Leets/tree/master/0867-transpose-matrix) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Amansolanki19/Leets/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/Amansolanki19/Leets/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Amansolanki19/Leets/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## String Matching
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Amansolanki19/Leets/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amansolanki19/Leets/tree/master/0628-maximum-product-of-three-numbers) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Amansolanki19/Leets/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Counting
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Amansolanki19/Leets/tree/master/0014-longest-common-prefix) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Amansolanki19/Leets/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
