@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amansolanki19/Leets/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Amansolanki19/Leets/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/Amansolanki19/Leets/tree/master/0029-divide-two-integers) |
 | [0171-excel-sheet-column-number](https://github.com/Amansolanki19/Leets/tree/master/0171-excel-sheet-column-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amansolanki19/Leets/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Amansolanki19/Leets/tree/master/0561-array-partition) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Amansolanki19/Leets/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
