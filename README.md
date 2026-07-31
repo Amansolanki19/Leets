@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Amansolanki19/Leets/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Amansolanki19/Leets/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Amansolanki19/Leets/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Amansolanki19/Leets/tree/master/0225-implement-stack-using-queues) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amansolanki19/Leets/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Amansolanki19/Leets/tree/master/0014-longest-common-prefix) |
+| [0032-longest-valid-parentheses](https://github.com/Amansolanki19/Leets/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Amansolanki19/Leets/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/Amansolanki19/Leets/tree/master/0171-excel-sheet-column-number) |
 | [0443-string-compression](https://github.com/Amansolanki19/Leets/tree/master/0443-string-compression) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amansolanki19/Leets/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Amansolanki19/Leets/tree/master/0032-longest-valid-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/Amansolanki19/Leets/tree/master/0152-maximum-product-subarray) |
 ## Prefix Sum
 |  |
