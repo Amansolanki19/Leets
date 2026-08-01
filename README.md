@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Amansolanki19/Leets/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Amansolanki19/Leets/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Amansolanki19/Leets/tree/master/0092-reverse-linked-list-ii) |
+| [0328-odd-even-linked-list](https://github.com/Amansolanki19/Leets/tree/master/0328-odd-even-linked-list) |
 ## Math
 |  |
 | ------- |
